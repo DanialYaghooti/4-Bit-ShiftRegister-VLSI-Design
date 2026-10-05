@@ -63,8 +63,10 @@ The HSPICE transient simulation demonstrates the shifting of the input signal ac
 
 ## Authors
 
-**[Danial Yaghooti](https://github.com/DanialYaghooti)**
-**[Mohammad Jafari](jfrym743@gmail.com)**
+- **[Danial Yaghooti](https://github.com/DanialYaghooti)**
+
+
+- **[Mohammad Jafari](https://github.com/Mohammad-Jafari84)**
 
 ```
 ```
